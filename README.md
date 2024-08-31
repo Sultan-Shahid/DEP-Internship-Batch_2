@@ -65,7 +65,8 @@ To run this project locally, you need to have the following installed:
 ```bash
 cd assignment4
 npm install
-npm run dev
+npm run dev```
+
 ### Run the backend server
 ```bash
 cd ..
