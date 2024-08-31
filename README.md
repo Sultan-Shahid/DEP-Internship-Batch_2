@@ -35,46 +35,32 @@ To run this project locally, you need to have the following installed:
 - npm (Node Package Manager)
 - MongoDB
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-cd assignment2
-npm install
-Open your browser and go to http://localhost:3000 to view the blogging website.
-
-# Assignment 3: E-Commerce Website (Full Stack Website)
+## Assignment 3: E-Commerce Website (Full Stack)
 
 ### Description
 This is a full-stack e-commerce website where users can browse products, add items to their cart, and make purchases. It is developed using the MERN stack.
+
 ### Prerequisites
 To run this project locally, you need to have the following installed:
--Node.js
--npm (Node Package Manager)
--MongoDB
--React App
 
-```bash
-cd assignment3
-npm install
-npm start
-### Run the backend server
-```bash
-cd ..
-npm run server
+- Node.js
+- npm (Node Package Manager)
+- MongoDB
+- React App
 
-
-#Assignment 4: Real-Time Chat Application
+## Assignment 4: Real-Time Chat Application
 
 ### Description
 This is a real-time chat application that allows users to send, receive, edit, delete, and reply to messages instantly. The application is built using React, Node.js, Express, MongoDB, Tailwind CSS, and Socket.io.
+
 ### Prerequisites
 To run this project locally, you need to have the following installed:
--Node.js
--npm (Node Package Manager)
--MongoDB
--Tailwind CSS
--React App
+
+- Node.js
+- npm (Node Package Manager)
+- MongoDB
+- Tailwind CSS
+- React Appp
 
 ```bash
 cd assignment4
