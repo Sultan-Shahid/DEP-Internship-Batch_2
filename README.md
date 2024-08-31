@@ -62,12 +62,4 @@ To run this project locally, you need to have the following installed:
 - Tailwind CSS
 - React Appp
 
-```bash
-cd assignment4
-npm install
-npm run dev```
 
-### Run the backend server
-```bash
-cd ..
-npm run server
