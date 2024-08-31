@@ -1,14 +1,12 @@
 # My Projects
 
 ## Overview
-This repository contains two assignments:
-
+This repository contains four assignments:
 
 - **Assignment 1**: A personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap.
 - **Assignment 2**: A dynamic blogging website developed using Node.js, Express, and MongoDB.
 - **Assignment 3**: A full-stack e-commerce website created using the MERN stack (MongoDB, Express, React, Node.js).
 - **Assignment 4**: A real-time chat application built using React, Node.js, Express, MongoDB, Tailwind CSS, and Socket.io.
-
 
 ## Assignment 1: Portfolio Website
 
@@ -41,10 +39,6 @@ To run this project locally, you need to have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-## Navigate to the Assignment 2 Directory
-2.****
-```bash
 cd assignment2
 npm install
 Open your browser and go to http://localhost:3000 to view the blogging website.
