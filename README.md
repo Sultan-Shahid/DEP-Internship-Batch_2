@@ -48,3 +48,6 @@ To run this project locally, you need to have the following installed:
 cd assignment2
 npm install
 Open your browser and go to http://localhost:3000 to view the blogging website.
+
+# Assignment 3: E-Commerce Website (Full Stack Website)
+
